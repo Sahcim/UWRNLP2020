@@ -1,7 +1,7 @@
 # Natural Language Processing UWR 2020
 
 ## About
-Assigments and sylabus from Natural Language Processing @ University of Wrocław 2020 Class
+Assigments and syllabus from Natural Language Processing @ University of Wrocław 2020 Class
 
 ## Notebooks issue
 Sometimes jupyter notebooks doesn't render. Use this in case https://nbviewer.jupyter.org.
