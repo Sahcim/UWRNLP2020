@@ -51,6 +51,3 @@ Sometimes jupyter notebooks doesn't render. Use this in case https://nbviewer.ju
 43. Statistical parsing
 44. Dependency grammars
 
-....
-
-
